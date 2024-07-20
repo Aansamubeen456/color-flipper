@@ -1,0 +1,51 @@
+<header>
+
+        <!-- nav-bar -->
+        <nav class="nav-bar">
+
+            <!-- nav-center -->
+            <div class="nav-center">
+
+                <!-- nav header -->
+                <div class="nav-header">
+                    <h3>color flipper</h3>
+
+                </div>
+                <!--end of nav header -->
+
+                <!-- nav links -->
+                <ul class="nav-links">
+                    <li>
+                        <a href="#" class="nav-link">simple</a>
+                    </li>
+                    <li>
+                        <a href="#" class="nav-link">hex</a>
+                    </li>
+                </ul>
+                <!--end of nav links -->
+            </div>
+            <!--end of nav-center -->
+
+        </nav>
+        <!--end of nav-bar -->
+
+        <!-- hero section -->
+        <div class="hero">
+
+            <!-- hero banner -->
+            <div class="hero-banner">
+
+                <!-- heading -->
+                <div class="banner-header">
+
+                    <h1 class="banner-heading">background color: <span class="color">#f2f456</span></h1>
+                </div>
+                    <!-- button -->
+                <button type="button" class="btn hero-btn">click me</button>
+            </div>
+            <!--end of hero banner -->
+        </div>
+        <!--end of hero section -->
+
+    </header>
+    <!--end of header -->
